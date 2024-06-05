@@ -1,0 +1,61 @@
+{
+	"PREFIX": "!",
+	"IDS": {
+		"GUILDID": "605995525686427658",
+		"ROLEIDS": {
+			"AdminRoleID": "818122491775549440",
+			"JunAdminRoleID": "818122492446638081",
+			"ModeratorRoleID": "818122493452746852",
+			"SupportRoleID": "818122494020026389",
+			"EventCuratorRoleID": "818122495894880306",
+			"EventMasterRoleID": "818122510205583431",
+			"UserDefault": "818122548075036722",
+			"EventBanRoleID": "818122597757485088",
+			"EventWarnRoleID": "818122589372284948",
+			"EventRoleID": "818122574034501713"
+		},
+		"CHANNELIDS": {
+			"BotsChannelID": "818122667030741002",
+			"GeneralChat": "818122659349921862",
+			"logChannelID": "818122680100323368",
+			"eventAnnounceChannelID": "818122694134202448",
+			"journalChannelID": "845185570431172659",
+			"hangoutChannelID": "818122649262882857",
+			"insomniaChannelID": "818122655440830474",
+			"weekAndMonthReports": "845928708769579028",
+			"eventsLogsChannelID": "842758974125244416",
+			"adminStatsChannelID": "849940729706315806",
+			"eventsCategoryID": "818122639939338300",
+			"privateChannelsCatID": "818122641377460234",
+			"channelToFilterInPrivateChannels": "818122644201275493",
+			"spravChannelID": "845928708769579028"
+		},
+		"USERIDS": {
+			"DEV": "303273346009923586"
+		},
+		"MESSAGEIDS": {
+			"controlPannelMessage": "846238786253488138"
+		},
+		"EMOJIS": {
+			"YES": "<:Yes:633712359772389386>",
+			"NO": "<:No:633712357129977876>"
+		}
+	},
+	"removeEventRoleMsgLink": "https://discordapp.com/channels/508698707861045248/605184792325128213/690097328937238544",
+	"EMBEDS": {
+		"pannelEmbed": {
+			"title": "Нажмите на 🟡 чтобы запустить ивент",
+			"color": 16756224,
+			"description": "После нажатия на реакцию бот задаст вам несколько вопросов:\n`1.` Какой ивент ?\n`2.` Сколько слотов ?\n`3.` Ссылка на сайт (если через сайт)\n`4.` Тип запуска ивента:\n┗:one: Сейчас ┃ :two: Позже ┃ :three: Набор игроков ",
+			"author": {
+				"name": "Начать ивент"
+			},
+			"image": {
+				"url": "https://i.imgur.com/NwUm5z6.png"
+			},
+			"footer": {
+				"text": "Нашли баг ? Напишите об этом Сове"
+			}
+		}
+	}
+}
